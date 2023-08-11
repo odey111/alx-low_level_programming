@@ -1,1 +1,1 @@
-this the internal readme file
+This is the readme file for 0x00. C - Hello, World C
