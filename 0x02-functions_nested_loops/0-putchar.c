@@ -1,8 +1,9 @@
 #include "main.h"
+
 	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
+	 * main - where my codes enters from
+	 * is written by innocent
+	 * Return: Always 0
 	 */
 
 
