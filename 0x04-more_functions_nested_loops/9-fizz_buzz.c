@@ -11,20 +11,20 @@
 
 int main(void)
 {
-        int i;
+        int g;
 
-    for (i = 1; i <= 100; i++)
+    for (g = 1; g <= 100; g++)
     {
-            if (i % 15 == 0)
+            if (g % 15 == 0)
              printf("FizzBuzz");
-        else if (i % 3 == 0)
+        else if (g % 3 == 0)
             printf("Fizz");
-        else if (i % 5 == 0)
+        else if (g % 5 == 0)
             printf("Buzz");
         else
-            printf("%d", i);
+            printf("%d", g);
 
-        if (i < 100)
+        if (g < 100)
             printf(" ");
     }
 
