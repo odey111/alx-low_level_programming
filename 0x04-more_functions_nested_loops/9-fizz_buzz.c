@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * main - Entry pint
  * Description: Prints numbers and words from 1 to 100,
- *
+ * Fizz for multiples of 3 and Buzz for multiples of 5
+ * FizzBuzz for both 
  * Return: Always 0 (Success)
  */
 int main(void)
