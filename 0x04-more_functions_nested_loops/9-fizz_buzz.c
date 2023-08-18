@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Prints the Fizz-Buzz sequence from 1 to 100.
- *
+ * main - main entry point 
+ * 
+ * Description: Prints the Fizz-Buzz sequence from 1 to 100
+ * Fizz for multiples of 3 and buzz for multiples of 5,
+ * And FizzBuzz for multiples of both
  * Return: Always 0 (Success)
  */
 
