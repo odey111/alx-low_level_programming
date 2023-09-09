@@ -1,1 +1,1 @@
-0x09. C - Static libraries
+0x06. C - More pointers, arrays and strings
